@@ -4,17 +4,18 @@
 
 <!-- Skills -->
 <p align="center">
-    <a href="https://coffeescript.org/"><img src="https://konpa.github.io/devicon/devicon.git/icons/coffeescript/coffeescript-original-wordmark.svg" alt="CoffeScript" width="25" height="25"/></a>
-    <a href="https://www.docker.com/"><img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25"/></a>
-    <a href="https://golang.org/"><img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="Go" width="25" height="25"/></a>
-    <a href="https://www.java.com/es/download/"><img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="25" height="25"/></a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/></a>
-    <a href="https://www.mysql.com/"><img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25"/></a>
-    <a href="https://www.php.net/"><img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" width="25" height="25"/></a>
-    <a href="https://www.rust-lang.org/"><img src="https://konpa.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="Rust" width="25" height="25"/></a>
-    <a href="https://sass-lang.com/"><img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="SaSS" width="25" height="25"/></a>
-    <a href="https://nodejs.org/"><img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="25" height="25"/></a>
-    <a href="https://www.python.org/"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="Python" width="25" height="25"/></a>
+	<a href="https://wordpress.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="25" height="25"/></a>
+    <a href="https://www.ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="25" height="25"/></a>
+	<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="25" height="25"/></a>
+	<a href="https://sass-lang.com/"><img src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SaSS" width="25" height="25"/></a>
+	<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/></a>
+	<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="25" height="25"/></a>
+	<a href="https://npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25"/></a>
+	<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="MySQL" width="25" height="25"/></a>
+	<a href="https://www.java.com/es/download/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25"/></a>
+	<a href="https://ionicframework.com"><img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic Framework" width="25" height="25"/></a>
+    <a href="https://golang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="25" height="25"/></a>    
+    
 </p>
 
 <!-- Badges -->
@@ -28,4 +29,3 @@
 <p align="center">
     <a href="#"><img src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
 </p>
-
