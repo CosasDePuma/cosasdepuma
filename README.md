@@ -36,6 +36,6 @@
 <hr>
 
 <!-- Dinosaur -->
-<a href="#"><img height="250"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosasdepuma" /></a>
-<a href="#"><img align="right" height="248" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
+<a href="#"><img height="212"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosasdepuma" /></a>
+<a href="#"><img align="right" height="210" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
 
