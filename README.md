@@ -1,6 +1,3 @@
-<!-- Octocat -->
-<p align="right"><img width="70" style="position: absolute" src=".github/img/octocat.gif"/></p>
-
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/kikefontan">Kike Fontán</a></h1>
 <h3 align="center">A passionate cybersecurity researcher from Spain with some nice skills</h3>
