@@ -1,3 +1,6 @@
+<!-- Octocat -->
+<p align="right"><img width="70" style="position: absolute" src=".github/img/octocat.gif"/></p>
+
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/kikefontan">Kike Fontán</a></h1>
 <h3 align="center">A passionate cybersecurity researcher from Spain with some nice skills</h3>
@@ -25,7 +28,19 @@
 	<a href="https://www.linkedin.com/in/kikefontan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+<hr>
+
+<!-- Time Travel -->
+<h2 align="center">Did I found an Ancient Easter Egg?</h2>
+<p align="center">
+    <a href="https://github.com/cosasdepuma/cosasdepuma"><img src=".github/img/delorean.jpg" alt="Delorean"></a>
+</p>
+
+<hr>
+
 <!-- Dinosaur -->
 <p align="center">
-    <a href="#"><img src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
+    <a href="#"><img src=".github/img/dino.gif" alt="Dinosaur Game"></a>
 </p>
+
+
