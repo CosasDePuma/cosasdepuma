@@ -7,7 +7,7 @@
 	<a href="https://wordpress.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="25" height="25"/></a>
     <a href="https://www.ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="25" height="25"/></a>
 	<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="25" height="25"/></a>
-	<a href="https://sass-lang.com/"><img src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SaSS" width="25" height="25"/></a>
+	<a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SaSS" width="25" height="25"/></a>
 	<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/></a>
 	<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="25" height="25"/></a>
 	<a href="https://npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25"/></a>
