@@ -30,14 +30,14 @@
 <!-- Time Travel -->
 <h2 align="center">Did I found an Ancient Easter Egg?</h2>
 <p align="center">
-    <a href="https://github.com/cosasdepuma/cosasdepuma"><img src=".github/img/delorean.jpg" alt="Delorean"></a>
+    <a href="https://github.com/cosasdepuma/cosasdepuma"><img src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/delorean.jpg" alt="Delorean"></a>
 </p>
 
 <hr>
 
 <!-- Dinosaur -->
 <p align="center">
-    <a href="#"><img src=".github/img/dino.gif" alt="Dinosaur Game"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
 </p>
 
 
