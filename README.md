@@ -26,6 +26,6 @@
 
 <!-- Dinosaur -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game">
+    <a href="#"><img src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
 </p>
 
